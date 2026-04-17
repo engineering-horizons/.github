@@ -14,16 +14,22 @@ Welcome to the official repository for **Engineering Horizons**. We are a commun
 ## Current Projects
 
 ### Robotic Arm
-A multi-DOF (Degree of Freedom) arm designed for precision tasks. We are currently focusing on:
+
+🚧 IN - PROGRESS
+
+<!-- A multi-DOF (Degree of Freedom) arm designed for precision tasks. We are currently focusing on:
 * **Inverse Kinematics:** Implementing algorithms for smooth coordinate-based movement.
 * **Control Systems:** Integrating high-torque servos with real-time feedback loops.
-* **Computer Vision:** Future-proofing for object recognition and pick-and-place automation.
+* **Computer Vision:** Future-proofing for object recognition and pick-and-place automation. -->
 
 ### Line Following Robot
-Our high-speed autonomous navigator. This project serves as our testing ground for sensor fusion and PID control.
+
+🚧 IN - PROGRESS
+
+<!-- Our high-speed autonomous navigator. This project serves as our testing ground for sensor fusion and PID control.
 * **PID Tuning:** Optimizing proportional, integral, and derivative constants for smooth cornering.
 * **Sensor Array:** Utilizing IR reflectance sensors for high-frequency path correction.
-* **Modular Chassis:** Lightweight 3D-printed design for maximum agility.
+* **Modular Chassis:** Lightweight 3D-printed design for maximum agility. -->
 
 ## Tech Stack
 
