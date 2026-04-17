@@ -52,7 +52,7 @@ We are always looking for passionate members to join our sub-teams in Mechanical
 
 -->
 
-## 📂 Getting Started
+## Getting Started
 
 To contribute to our project repositories:
 
