@@ -62,14 +62,17 @@ To contribute to our project repositories:
     ```
 2.  **Environment Setup:**
     <br>
-    a. Ensure you have your virtual environment configured (we recommend `venv` for Python projects).
+    *Checkout the SETUP.md in the root of each project to ensure your environment is properly configured!*
+    
+    
+    <!-- a.Ensure you have your virtual environment configured (we recommend `venv` for Python projects).
     ```bash
     python3 -m venv env
-    source env/bin/activate
+    source env/bin/a ctivate
     pip install -r requirements.txt
     ```
     <br>
-    b. For C++ or Arduino projects, ensure you either have PlatformIO installed on VSCode or are using the ArduinoIDE.
+    b. For C++ or Arduino projects, ensure you either have PlatformIO installed on VSCode or are using the ArduinoIDE. -->
 
 <!-- 
 ## Join Us
@@ -80,5 +83,7 @@ Engineering Horizons meets weekly at the UW campus.
 * **Email:** [club-email@uw.edu]
 * **Meeting Times:** Check the calendar in the Wiki. -->
 
+
+<br>
 
 > *"The best way to predict the future is to build it."*
